@@ -1,0 +1,7 @@
+App Experience - Synthetic survey responses
+RecordedDate,ResponseId,Q1b U - CSAT COMMENT,Q1c U - CSAT COMMENT,Q1d U - CSAT COMMENT,Q2 U - FEAT,Q2 U - FEAT_6_TEXT,Q3 U - FEAT,Q3 U - FEAT_6_TEXT,Q3b U - FEAT COMMENT,Q4 U - CES,Q4b U - CES COMMENT,Q5 U - COMMENT,age_range,os
+2026-01-15T09:00:00Z,synthetic-response-001,,,Location refresh feels slow.,"1,3",,3,,The map needs a freshness timestamp.,2,It takes several steps.,"I need a manual refresh,
+with a visible timestamp.",25-34,SyntheticOS
+2026-01-15T09:01:00Z,synthetic-response-002,,,,,,,,,4,,,35-44,SyntheticOS
+2026-01-15T09:02:00Z,synthetic-response-003,,,,6,Session planning,6,Usage export,The labels could be clearer.,3,,Both other options are synthetic.,45-54,SyntheticOS
+2026-01-15T09:03:00Z,synthetic-response-004,,,,"1,99",,2,,Lock controls were clear.,1,,This row contains an unsupported synthetic code.,55-64,SyntheticOS
